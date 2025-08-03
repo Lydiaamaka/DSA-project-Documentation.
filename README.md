@@ -1,4 +1,4 @@
-# DSA-project-Documentation.
+# DSA-project-Documentation (SQL)
 This is my second project on data analysis by querying Database.
 ## project topic:
 kms sales case study.
