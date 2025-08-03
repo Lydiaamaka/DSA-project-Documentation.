@@ -22,3 +22,4 @@ Case scenario 11
 9. Which consumer customer was the most profitable one 
 10. Which customer returned iterm and what segment do they belong to
 
+https://drive.google.com/file/d/1ZLcFmdTlPJyeCOWSAbA17QBiW0qYTp9R/view?usp=drivesdk
