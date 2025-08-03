@@ -21,5 +21,6 @@ Case scenario 11
 8. Which corporate customer play the most number of order in 2009 -2012
 9. Which consumer customer was the most profitable one 
 10. Which customer returned iterm and what segment do they belong to
+Below is the sql code uploaded to Google drive.
 
 https://drive.google.com/file/d/1ZLcFmdTlPJyeCOWSAbA17QBiW0qYTp9R/view?usp=drivesdk
